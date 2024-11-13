@@ -1,4 +1,4 @@
-The programming language used in this project is Python . The following libraries were used for data analysis and data visualization and to build a classifier to predict the price range of mobile phones.
+The programming language used in this project is Python . The following libraries were used for data analysis and data visualization and to build a classifier to predict SEOUL BIKE Demand.
 
 Pandas : For loading the dataset and performing data wrangling
 
